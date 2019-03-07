@@ -41,4 +41,27 @@ score:2.56 rank:162 added new features for genre,but no improvement
 
 
 1st march:
-I was ranked 160 with score 2.3.Todays plan is to enter in top 75.  not successful
+I was ranked 160 with score 2.3.Todays plan is to enter in top 75.  plan was not successful
+
+4 March:
+
+
+GBR  2.64
+xgboost  2.75
+xgboost,lgbm  2.07
+gbr,lgbm  2.07
+gbr,xgboost  2.05
+
+
+
+
+top30   2.09319
+top 40  2.07462
+top 50  2.05148
+top 60 
+top 70  2.05573
+
+To do:
+plot genres to budget
+
+
