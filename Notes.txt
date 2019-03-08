@@ -50,7 +50,9 @@ GBR  2.64
 xgboost  2.75
 xgboost,lgbm  2.07
 gbr,lgbm  2.07
-gbr,xgboost  2.05
+gbr,xgboost  2.05148
+gbr,xgboost,lgbm  2.05565
+gbr,lasso  3.4
 
 
 
